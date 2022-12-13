@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Easy1929 {
+public class Algorithms1929 {
     public static int[] getConcatenation(int[] nums) {
         int[] newNums= new int[nums.length*2];
         int j=0;
