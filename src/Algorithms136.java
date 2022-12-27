@@ -11,6 +11,7 @@ public class Algorithms136 {
             if (nums[i] != value) value = nums[i];
         }
         return value;
+
     }
     public static void main(String[] args) {
         int[] nums = {4, 1, 2, 1, 2};
