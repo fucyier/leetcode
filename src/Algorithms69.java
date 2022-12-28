@@ -9,7 +9,6 @@ public class Algorithms69 {
     }
 
     public static void main(String[] args) {
-        //int a=46341*46341;
         System.out.println(mySqrt(2147483647));
     }
 }
